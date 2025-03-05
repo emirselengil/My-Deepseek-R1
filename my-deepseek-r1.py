@@ -1,3 +1,5 @@
+# Author: Emir SELENGİL
+
 import streamlit as st
 import requests
 import re
